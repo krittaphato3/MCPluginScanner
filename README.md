@@ -1,4 +1,4 @@
-# MCPluginScanner (DarkSearch ULTRA V5)
+# MCPluginScanner (DarkSearch Ultra V5 Beta)
 
 A high-performance, multi-threaded Minecraft server scanner and plugin detector built with Python and CustomTkinter. This tool allows you to fetch server IPs from popular server lists or scan IP ranges to detect specific plugins (e.g., Vulcan, Spartan, AAC).
 
