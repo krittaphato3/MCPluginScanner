@@ -37,7 +37,6 @@ A high-performance, multi-threaded Minecraft server scanner and plugin detector 
     ```bash
     python DarkSearch.py
     ```
-    *(Note: Replace `DarkSearch.py` with whatever you named the script file).*
 
 2.  **Select a Mode:**
     * **Web Scraper:** Choose a website to fetch IPs from. Click **Start** to fetch, then click **Stop Fetch & Scan** to begin checking plugins.
